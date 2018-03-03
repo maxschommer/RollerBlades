@@ -72,11 +72,7 @@ F0 "encoder" 59
 F1 "encoder.sch" 59
 $EndSheet
 $Sheet
-<<<<<<< HEAD
-S 2350 5200 700  700 
-=======
 S 3750 4150 700  700 
->>>>>>> b86310f78d99d7290bd613e5784ffb3ae9a3dde1
 U 5A997A29
 F0 "power" 59
 F1 "power.sch" 59
