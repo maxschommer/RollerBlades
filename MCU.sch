@@ -351,4 +351,8 @@ Text HLabel 3850 1400 2    60   Input ~ 0
 PB1
 Text HLabel 3850 1500 2    60   Input ~ 0
 PB2
+Text HLabel 1950 2650 0    60   Input ~ 0
+ADC6
+Text HLabel 1950 2750 0    60   Input ~ 0
+ADC7
 $EndSCHEMATC
