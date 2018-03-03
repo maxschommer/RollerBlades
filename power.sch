@@ -31,7 +31,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:testpart
+LIBS:CustomComponents
 LIBS:roller_blade-cache
 EELAYER 25 0
 EELAYER END

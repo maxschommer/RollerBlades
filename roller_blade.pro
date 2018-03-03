@@ -1,4 +1,4 @@
-update=3/2/2018 12:03:45 PM
+update=Sat 03 Mar 2018 10:46:28 AM EST
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=Custom.lib/testpart
+LibName34=CustomComponents
