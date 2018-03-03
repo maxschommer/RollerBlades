@@ -31,7 +31,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:testpart
+LIBS:CustomComponents
 LIBS:roller_blade-cache
 EELAYER 25 0
 EELAYER END
@@ -72,7 +72,7 @@ F0 "encoder" 59
 F1 "encoder.sch" 59
 $EndSheet
 $Sheet
-S 2350 5200 700  700 
+S 3750 4150 700  700 
 U 5A997A29
 F0 "power" 59
 F1 "power.sch" 59

@@ -1,4 +1,4 @@
-update=3/2/2018 12:03:45 PM
+update=Sat 03 Mar 2018 10:55:36 AM EST
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=Custom.lib
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -61,4 +61,4 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=Custom.lib/testpart
+LibName33=CustomComponents
