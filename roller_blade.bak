@@ -48,31 +48,31 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 5000 4650 2100 1450
+S 2400 3300 1400 1000
 U 5A997994
 F0 "MCU" 59
 F1 "MCU.sch" 59
 $EndSheet
 $Sheet
-S 7850 2650 1600 800 
+S 6900 1600 1400 1000
 U 5A9979B5
 F0 "reciever_mod" 59
 F1 "reciever_mod.sch" 59
 $EndSheet
 $Sheet
-S 5550 2050 1100 650 
+S 6900 2800 1400 1000
 U 5A9979FE
 F0 "FS" 59
 F1 "FS.sch" 59
 $EndSheet
 $Sheet
-S 4400 3150 650  300 
+S 6900 4000 1400 1000
 U 5A997A12
 F0 "encoder" 59
 F1 "encoder.sch" 59
 $EndSheet
 $Sheet
-S 3750 4150 700  700 
+S 6900 5200 1400 1000
 U 5A997A29
 F0 "power" 59
 F1 "power.sch" 59
