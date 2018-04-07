@@ -70,7 +70,7 @@ F 3 "" H 3300 3700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3300 3700 3550 3700
+	3300 3700 4000 3700
 $Comp
 L +3.3V #PWR?
 U 1 1 5A99871A
@@ -170,8 +170,6 @@ F 3 "" H 4800 2350 50  0001 C CNN
 	1    4800 2350
 	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	3550 3700 4000 3700
 Wire Wire Line
 	6300 3500 6500 3500
 Wire Wire Line
