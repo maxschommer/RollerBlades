@@ -1,5 +1,4 @@
-
-update=Sat 03 Mar 2018 10:55:36 AM EST
+update=Sat 07 Apr 2018 08:03:31 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -24,11 +23,9 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
-LibDir=Custom.lib
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -62,5 +59,5 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=CustomComponents
-
+[general]
+version=1
