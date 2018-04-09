@@ -1,4 +1,4 @@
-update=Sat 07 Apr 2018 08:10:19 PM EDT
+update=Sun 08 Apr 2018 08:52:55 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=/home/maximilian/Documents/Github/RollerBlades/CustomComponents
+LibName34=CustomComponents
