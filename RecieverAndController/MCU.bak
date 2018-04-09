@@ -321,19 +321,19 @@ PC5
 Text HLabel 3850 2900 2    60   Input ~ 0
 PD0
 Text HLabel 3850 3000 2    60   Input ~ 0
-PD0
+PD1
 Text HLabel 3850 3100 2    60   Input ~ 0
-PD0
+PD2
 Text HLabel 3850 3200 2    60   Input ~ 0
-PD0
+PD3
 Text HLabel 3850 3300 2    60   Input ~ 0
-PD0
+PD4
 Text HLabel 3850 3400 2    60   Input ~ 0
-PD0
+PD5
 Text HLabel 3850 3500 2    60   Input ~ 0
-PD0
+PD6
 Text HLabel 3850 3600 2    60   Input ~ 0
-PD0
+PD7
 Text HLabel 3850 1300 2    60   Input ~ 0
 PB0
 Text HLabel 3850 1400 2    60   Input ~ 0
